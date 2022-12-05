@@ -20,7 +20,7 @@ const orders: Order[] = [
 			{
 				'product': {
 					'name': 'coca-cola',
-					'imagePath': '1668526163698-coca-cola.png',
+					'imagePath': '1668889537014-coca-cola.png',
 					'price': 3.5,
 				},
 				'quantity': 2,
